@@ -8,8 +8,10 @@ yarn-debug.log*
 yarn-error.log*
 
 package-lock.json
-.prettierignore
-.editorconfig
+prettierignore
+prettierrc
+eslintrc.js
+editorconfig
 
 
 # Runtime data
