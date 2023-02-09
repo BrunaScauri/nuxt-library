@@ -1,9 +1,9 @@
 <template>
   <div class='ibook-layout'>
     <HeaderPage />
-    <PageContent>
-      <Nuxt />
-    </PageContent>
+      <PageContent>
+        <Nuxt />
+      </PageContent>
     <FooterMain />
   </div>
 </template>
