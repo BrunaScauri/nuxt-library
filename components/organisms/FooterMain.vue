@@ -21,9 +21,13 @@
 
 <style lang="scss" scoped>
 .footer {
+  position: absolute;
+  bottom: 0;
   width: 100%;
   height: 110px;
   background: color(dark, darkest);
+  //min-height: 100vh;
+  display: flex;
   .container {
     display: grid;
     height: 100%;
