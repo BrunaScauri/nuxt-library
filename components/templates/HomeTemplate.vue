@@ -1,7 +1,7 @@
 <template>
   <div class="home-template">
     <PageTitle text="Bem vindo ao " strong="ibook" />
-    <PresentationMain />
+    <ReleasesMain />
   </div>
 </template>
 
