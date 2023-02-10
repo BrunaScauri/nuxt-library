@@ -13,6 +13,9 @@ package-lock.json
 .eslintrc.js
 .editorconfig
 .vscode/settings.json
+npm-shrinkwrap.json
+nuxt.config.ts
+tsconfig.json
 
 # Runtime data
 pids
