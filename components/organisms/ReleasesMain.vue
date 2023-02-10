@@ -1,6 +1,7 @@
 <template>
   <div class="releases">
     <h2>Lançamentos</h2>
+    <p>:(</p>
     <BookList />
   </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <div class="presentation">
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus ab tenetur laborum fugiat perspiciatis. Eligendi, inventore labore! Quas repellat optio nisi in laudantium, minus voluptatem assumenda ullam dolorem atque aspernatur!Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus ab tenetur laborum fugiat perspiciatis. Eligendi, inventore labore! Quas repellat optio nisi in laudantium, minus voluptatem assumenda ullam dolorem atque aspernatur!Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus ab tenetur</p>
+    <p>iBook é uma plataforma de biblioteca de livros online fictícia, criada por <b>Bruna Scauri</b> com base nas aulas do Bootcamp Cataline, utilizando Vue, Nuxt, Typescript, HTML, SCSS e a biblioteca Axios.</p>
 
     <img src='@/assets/img/presentation.svg' alt="apresentação do ibook">
   </div>
